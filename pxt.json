@@ -1,6 +1,6 @@
 {
-    "name": "MP",
-    "description": "",
+    "name": "innobit_Expansion",
+    "description": "test",
     "dependencies": {
         "core": "*",
         "radio": "*",
