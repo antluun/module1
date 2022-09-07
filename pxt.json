@@ -1,5 +1,6 @@
 {
     "name": "innobit_Expansion",
+    "icon": "Icon.jpeg",
     "description": "wooorrkk",
     "dependencies": {
         "core": "*",
