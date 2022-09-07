@@ -11,7 +11,11 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "innobit_Expansion.ts"
+        "innobit_Expansion.ts",
+        "_locales/en/innobit_Expansion-strings.json",
+        "_locales/en/innobit_Expansion-jsdoc-strings.json",
+        "_locales/zh-TW/innobit_Expansion-strings.json",
+        "_locales/zh-TW/innobit_Expansion-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"

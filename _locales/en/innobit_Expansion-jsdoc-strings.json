@@ -1,0 +1,13 @@
+{
+  "innobit_Expansion.LED_setPixelColor3": "设定三个像素的颜色",
+  "innobit_Expansion.LED_setPixelColor32": "设定三个像素的颜色\r\n\r\n设定三个像素的颜色",
+  "innobit_Expansion.MP_Servo.maxAngle": "Gets the maximum angle for the servo",
+  "innobit_Expansion.MP_Servo.minAngle": "Gets the minimum angle for the servo",
+  "innobit_Expansion.colors": "Gets the RGB value of a known color",
+  "innobit_Expansion.createServo": "设置舵机角度",
+  "innobit_Expansion.motor_M1": "初始化电动机  M1\r\n设置电动机速度\r\n@param 设置电动机速度 (-255 to 255)",
+  "innobit_Expansion.motor_M2": "初始化电动机  M2\r\n设置电动机速度\r\n@param 设置电动机速度 (0 to 255)",
+  "innobit_Expansion.readData": "自定义DHT11获取温湿度",
+  "innobit_Expansion.readhumidity": "通过DHT11获取湿度",
+  "innobit_Expansion.readtemperature": "通过DHT11获取温度"
+}
