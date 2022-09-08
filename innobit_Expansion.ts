@@ -159,7 +159,7 @@ namespace innobit_Expansion {
         */
     //% subcategory="Temperature and Humidity Sensor"
     //% blockId="readtemperature" weight=12 blockGap=15
-    //% block="Get temperature"
+    //% block="Temperature"
     export function readtemperature(): number {
         return readData(dataType.temperature)
     }
@@ -169,7 +169,7 @@ namespace innobit_Expansion {
         */
     //% subcategory="Temperature and Humidity Sensor"
     //% blockId="readhumidity" weight=12 blockGap=15
-    //% block="Get humidity"
+    //% block="Humidity"
     export function readhumidity(): number {
         return readData(dataType.humidity)
     }
